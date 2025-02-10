@@ -1,5 +1,3 @@
-5. Shopping_list_with_js
-
 Description:
 This project contains a shopping list application built using JavaScript.
 
